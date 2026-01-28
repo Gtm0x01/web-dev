@@ -1,0 +1,18 @@
+a, h1 {
+    color:blue
+}
+a {
+    font-size: 30 px;
+    text-decoration: none;
+    font-weight: bold;
+}
+p {
+    font-size: 200 px;
+
+}
+p span {
+     color: red;
+}
+.new-course span{
+    color: blue;
+}
